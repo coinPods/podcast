@@ -108,7 +108,8 @@
 
 * 对比下Flexible Transaction?
 
-[https://zander.github.io/posts/Flexible\_Transactions]
+[https://zander.github.io/posts/Flexible_Transactions]
+
 [https://github.com/bitcoin/bips/blob/master/bip-0134.mediawiki]
 
 * 闪电网络与Segwit
@@ -125,6 +126,7 @@
 * 欺骗了旧节点？
 
 > [https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki]
+
 > To judge whether or not more than 50% of hashing power supports this BIP, miners are asked to upgrade their software and put the string "/P2SH/" in the input of the coinbase transaction for blocks that they create.
 > 
 > On February 1, 2012, the block-chain will be examined to determine the number of blocks supporting pay-to-script-hash for the previous 7 days. If 550 or more contain "/P2SH/" in their coinbase, then all blocks with timestamps after 15 Feb 2012, 00:00:00 GMT shall have their pay-to-script-hash transactions fully validated. Approximately 1,000 blocks are created in a week; 550 should, therefore, be approximately 55% of the network supporting the new feature.
@@ -145,4 +147,5 @@
 * Schnorr Signature和Aggregated Signature
 
 [https://bitcoinmagazine.com/articles/the-power-of-schnorr-the-signature-algorithm-to-increase-bitcoin-s-scale-and-privacy-1460642496]
+
 [https://bitcointalk.org/index.php?topic=1377298.0]
