@@ -123,6 +123,7 @@
 ## 硬分叉实现与软分叉实现对比
 
 * 欺骗了旧节点？
+
 > [https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki]
 > To judge whether or not more than 50% of hashing power supports this BIP, miners are asked to upgrade their software and put the string "/P2SH/" in the input of the coinbase transaction for blocks that they create.
 > 
@@ -130,7 +131,9 @@
 > 
 > If a majority of hashing power does not support the new validation rules, then rollout will be postponed (or rejected if it becomes clear that a majority will never be achieved).
 > 
+
 * 有没有技术债？
+
 * 雾件
 
 ## 其他
@@ -140,5 +143,6 @@
 [https://github.com/jl2012/bips/blob/mast/bip-mast.mediawiki]
 
 * Schnorr Signature和Aggregated Signature
+
 [https://bitcoinmagazine.com/articles/the-power-of-schnorr-the-signature-algorithm-to-increase-bitcoin-s-scale-and-privacy-1460642496]
 [https://bitcointalk.org/index.php?topic=1377298.0]
