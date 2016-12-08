@@ -148,4 +148,4 @@
 
 [https://bitcoinmagazine.com/articles/the-power-of-schnorr-the-signature-algorithm-to-increase-bitcoin-s-scale-and-privacy-1460642496]
 
-[https://bitcointalk.org/index.php?topic=1377298.0]
+[https://diyhpl.us/wiki/transcripts/simons-institute/pairing-cryptography/]
