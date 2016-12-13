@@ -5,6 +5,8 @@
 [https://bitcoincore.org/en/2016/01/26/segwit-benefits/]
 
 1. 延展性
+
+	> [https://github.com/bitcoin/bips/blob/master/bip-0062.mediawiki]
 2. 扩容
 3. 脚本升级
 4. SPV和硬件钱包
